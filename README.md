@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rowan, also known as [mtnash](https://en.wikipedia.org/wiki/Mountain-ash). I mostly use rust now, but before that I did a few things [of intrest](https://git.fawkes.io/mtnash/ash-home-assistant) in python.
+I'm [mtnash](https://en.wikipedia.org/wiki/Mountain-ash). I mostly use rust now, but before that I did a few things [of intrest](https://git.fawkes.io/mtnash/ash-home-assistant) in python.
 
 #### I have a website
 <https://fawkes.io>, check it out!
